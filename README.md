@@ -1,12 +1,13 @@
+
 # Demo-CICD
 
-> A minimal (less than 30 lines of expanded CSS) old-looking modern theme for Typora
+> This is a demo for an effective software CICD
 
-![]()
-![kk]()
 
-## Fonts
 
-* Futura
-* Palatino
-* Victor Mono/Courier New
+## Git
+
+* git clone https://github.com/jorgehas/Demo-CICD.git
+* git add test.txt
+* git commit -m "Added a test file"
+* git commit -m "Added a test file"
