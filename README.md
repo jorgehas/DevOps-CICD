@@ -39,4 +39,4 @@ Vagrant provisioning
 
 * $ vagrant up
 ##### Stop
-* $ vagrant
+* $ vagrant halt
