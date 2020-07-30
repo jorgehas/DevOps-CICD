@@ -27,7 +27,7 @@
 * $ git checkout master
 * $ git merge cicd-features
 
-# Vagrant
+## Vagrant
 Vagrant provisioning
 
 * $ mkdir vagrantProvision
@@ -40,3 +40,7 @@ Vagrant provisioning
 * $ vagrant up
 ##### Stop
 * $ vagrant halt
+
+ ## Ansible
+
+ 
