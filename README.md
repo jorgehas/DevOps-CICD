@@ -1,5 +1,5 @@
 
-# Demo-CICD
+# CICD
 
 > This is a demo for an effective software CICD
 
