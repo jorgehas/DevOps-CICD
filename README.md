@@ -11,7 +11,6 @@
 
 * $ git add test.txt
 * $ git commit -m "Added a test file"
-* $ git commit -m "Added a test file"
 ### Adding feature branch
 * $ git checkout cicd-features
 * $ echo "cicd-features" > cicd-features.txt
