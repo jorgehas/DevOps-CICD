@@ -7,7 +7,7 @@
 
 # Git
 
-* git clone https://github.com/jorgehas/Demo-CICD.git
+* git clone https://github.com/jorgehas/CICD.git
 
 * $ git add test.txt
 * $ git commit -m "Added a test file"
